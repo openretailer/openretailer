@@ -6,8 +6,7 @@ OpenRetailer [![Donate](https://drive.google.com/uc?id=0BxSptsEQ_0A1ZDVaZWMtSTJp
 ![Status](https://drive.google.com/uc?id=0BxSptsEQ_0A1ZXotVUd6U0xaQ2M) 
 ![Platform](https://drive.google.com/uc?id=0BxSptsEQ_0A1b1d6dEJEbFlaUlk) 
 
-
-[![Open Retail]()](https://openretailer.net/)
+[![Open Retail](https://raw.githubusercontent.com/openretailer/openretailer/master/images/fp-github.jpeg)](https://openretailer.net/)
 
 Apa itu OpenRetailer?
 -------------------
