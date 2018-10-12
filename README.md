@@ -34,4 +34,4 @@ Forum atau Diskusi
 Bagaimana jika ingin ikut berkontribusi?
 ----------------------------------------
 
-[OpenRetailer](https://openretailer.net/) adalah software gratis, namun jika Anda merasakan manfaat dari software ini, Anda dapat [berkontribusi](https://support.openretailer.net/) dalam pengembangannya :-). Untuk informasi lebih lanjut tentang bagaimana cara [berkontribusi](https://openretailer.net/kontribusi/) bisa Anda cek di [sini](https://openretailer.net/kontribusi/).
+[OpenRetailer](https://openretailer.net/) adalah software gratis, namun jika Anda merasakan manfaat dari software ini, Anda dapat [berkontribusi](https://openretailer.net/kontribusi/) dalam pengembangannya :-). Untuk informasi lebih lanjut tentang bagaimana cara [berkontribusi](https://openretailer.net/kontribusi/) bisa Anda cek di [sini](https://openretailer.net/kontribusi/).
